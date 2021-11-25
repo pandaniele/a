@@ -16,7 +16,7 @@ Button b;
         b=(Button)findViewById(R.id.but);
     }
     public void ww(View view){
-        Toast toast = Toast.makeText(this, "ciaoo",
+        Toast toast = Toast.makeText(this, "ale ale ale ooo",
                 //make test ==new
                 Toast.LENGTH_SHORT);
         toast.show();
